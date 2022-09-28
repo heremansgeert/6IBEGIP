@@ -6,3 +6,4 @@
 * [English](/english/faq.md)
   * [FAQ](/english/faq.md)
   * [SWOT-analysis](/english/swotanalysis.md)
+  
