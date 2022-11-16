@@ -53,12 +53,3 @@ Na jouw GIP-presentatie beantwoord je de vragen die gesteld worden door de GIP-j
 ## Evaluatie
 
 > ET 3.1.18 De leerling kan een netwerkschema evalueren en indien nodig optimaliseren
-
-### bespreking van het netwerkschema
-
-| evaluatiecriteria | uitstekend | goed | voldoende |onvoldoende|
-|:------------------|:-----------|:-----|:----------|:-----------|
-
-
-
-### Mondelinge verdediging
